@@ -1,6 +1,6 @@
-a {
-  color: red;
-}
-a:hover{
-color: green;
-}
+a {color: red;}
+a:hover{color: green;}
+body{display: flex;flex-direction: column;}
+main {display: flex;flex: auto;}
+aside {felx:1;}
+article  {felx:3;}
